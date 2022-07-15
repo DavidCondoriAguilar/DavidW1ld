@@ -136,13 +136,14 @@ h2 {
 }
 
 #pie {
-    padding: 15px 14px;
+    padding: 5px 14px;
     text-align: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    font-size: 25px;
+    font-size: 40px;
+    color: #fff;
 }
 
 h3 {
